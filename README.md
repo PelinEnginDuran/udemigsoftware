@@ -2,6 +2,6 @@
 
 Bu projede HTML ve CSS kullanılmıştır.
 
-![Ekran Görüntüsü](udemigg.gif)
+<img src="udemig.gif"/>
 
-![Ekran Görüntüsü](udemig.gif)
+<img src="udemigg.gif"/>
